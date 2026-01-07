@@ -3,10 +3,10 @@
     "ad_status" : "1",
     
     "_comment" : "admob , google_ad_manager , fan, applovin_max, ironsource, startapp, applovin_discovery",
-    "ad_banner" : "admob",
-    "ad_inter" : "admob",
-    "ad_native" : "admob",
-    "openapp" : "admob",
+    "ad_banner" : "applovin_max",
+    "ad_inter" : "applovin_max",
+    "ad_native" : "applovin_max",
+    "openapp" : "applovin_max",
     "back_up" : "none",
     "ad_interval" : 3 ,
     
@@ -22,10 +22,10 @@
     },
     
 	"MAX": {
-	  "banner":"2965c66e51e81699",
-	  "interstitial":"61a23d63d2461798",
-	  "native": "c6258babf97ca328",
-	  "appopen" : "d1ac3378c8713d81"
+	  "banner":"a3924580c5db4770",
+	  "interstitial":"b4425ed70bc820d2",
+	  "native": "8a5000c27c8c34d7",
+	  "appopen" : "9e8340f82b5f6843"
 	},
 	
 	"FAN": {
@@ -51,6 +51,7 @@
     }
   }
 }
+
 
 
 
